@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.deps.json
+C:\Users\student\Desktop\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.dll
+C:\Users\student\Desktop\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.AssemblyInfo.cs
+D:\lesson\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.deps.json
+D:\lesson\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.runtimeconfig.json
+D:\lesson\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.runtimeconfig.dev.json
+D:\lesson\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.dll
+D:\lesson\lesson\BookStoreApp.DAL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.pdb
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.csprojAssemblyReference.cache
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.AssemblyInfoInputs.cache
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.AssemblyInfo.cs
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.csproj.CoreCompileInputs.cache
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.dll
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.pdb
+D:\lesson\lesson\BookStoreApp.DAL\obj\Debug\netcoreapp3.1\BookStoreApp.DAL.genruntimeconfig.cache

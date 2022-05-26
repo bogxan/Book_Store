@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.BLL.deps.json
+C:\Users\student\Desktop\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.BLL.dll
+C:\Users\student\Desktop\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.AssemblyInfo.cs
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.csprojAssemblyReference.cache
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.AssemblyInfoInputs.cache
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.AssemblyInfo.cs
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.csproj.CoreCompileInputs.cache
+D:\lesson\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.BLL.deps.json
+D:\lesson\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.BLL.dll
+D:\lesson\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.BLL.pdb
+D:\lesson\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.dll
+D:\lesson\lesson\BookStoreApp.BLL\bin\Debug\netcoreapp3.1\BookStoreApp.DAL.pdb
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.csproj.CopyComplete
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.dll
+D:\lesson\lesson\BookStoreApp.BLL\obj\Debug\netcoreapp3.1\BookStoreApp.BLL.pdb
